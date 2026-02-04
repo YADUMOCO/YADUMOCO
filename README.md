@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="assets/me.jpg" width="150" style="border-radius:50%;" />
+
+# Hi 👋, I'm Yadav P
+
+### 💻 Full Stack Developer | 🤖 ML Enthusiast | 🚀 Problem Solver
+
+</div>
+
 # Hi 👋, I'm Yadav P
 
 🎓 Computer Science Engineering Student  
