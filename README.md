@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="assets/me.jpg" width="150" style="border-radius:50%;" />
 
@@ -6,7 +6,27 @@
 
 ### 💻 Full Stack Developer | 🤖 ML Enthusiast | 🚀 Problem Solver
 
-</div>
+</div> -->
+<table>
+<tr>
+<td width="180" align="center">
+
+<img src="assets/me.jpg" width="160" style="border-radius:50%;" />
+
+</td>
+
+<td align="left">
+
+# Hi 👋, I'm Yadav P
+
+### 💻 Full Stack Developer | 🤖 ML Enthusiast | 🚀 Problem Solver
+
+</td>
+</tr>
+</table>
+
+---
+
 
 # Hi 👋, I'm Yadav P
 
